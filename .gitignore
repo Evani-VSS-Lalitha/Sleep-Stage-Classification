@@ -1,0 +1,21 @@
+# Models
+*.pth
+*.pkl
+
+# NumPy data
+*.npy
+
+# Datasets
+sleep-edf-database-1.0.0/
+
+# Processed data
+processed_data/
+processed_data_final/
+processed_data_multimodal/
+
+# Subject-wise data
+subjects/
+
+# Python cache
+__pycache__/
+*.pyc
